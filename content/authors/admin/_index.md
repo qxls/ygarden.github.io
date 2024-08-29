@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 天佑
+title: 天y佑
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
